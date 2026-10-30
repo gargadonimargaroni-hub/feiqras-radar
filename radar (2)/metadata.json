@@ -1,0 +1,6 @@
+{
+  "name": "FEIQRISHVILIS_RADAR",
+  "description": "Person-recognition alert app using on-device face embeddings and real-time camera monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
